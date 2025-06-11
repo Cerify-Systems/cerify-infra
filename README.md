@@ -86,9 +86,6 @@ cerify-infra/
 
 ### Running Tests
 
-```bash
-go test ./...
-```
 
 ### Building Locally
 
